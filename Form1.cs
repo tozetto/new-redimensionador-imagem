@@ -22,7 +22,7 @@ namespace NewRedimensionadorImagem
 
         private void btnRedimensionar_Click(object sender, EventArgs e)
         {
-            //Teste commit push
+            //Teste commit and push
             if ((!(ckbSubstituirArquivos.Checked)) && (txtPastaDestino.Text == "")) {
                 MessageBox.Show("Se não for substituir informe a pasta destino");
             }

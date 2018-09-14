@@ -9,3 +9,6 @@
 /obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 /obj/Debug/DesignTimeResolveAssemblyReferences.cache
 *.suo
+*.sqlite
+/.vs
+/obj/Release
