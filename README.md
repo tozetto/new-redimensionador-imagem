@@ -1,2 +1,2 @@
-# useful-programs
-Useful Programs
+# new-redimensionador-imagem
+Redimensionador de imagens.
