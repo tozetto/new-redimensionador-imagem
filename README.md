@@ -1,2 +1,2 @@
 # new-redimensionador-imagem
-Redimensionador de imagens.
+Redimensionador de imagens. Teste.
